@@ -1,5 +1,3 @@
-# cursor-LocateTracker
-
 graph TD
     A[frontend/] --> B[lib/]
     A --> C[android/]
